@@ -1,0 +1,30 @@
+body {border: 5px dotted grey;
+    border-radius: 5px;
+    padding: 10px;
+    display: inline-block;
+
+}
+
+h3 {
+    color: orange;
+}
+
+img {
+    width: 300px;
+    
+}
+h1 {
+    width: 300px;
+}
+
+div {
+    width: 300px;
+    background-color: lightgrey;
+    margin: 5px;
+}
+p {
+    padding:10px;
+    margin:5px;
+    background-color: violet;
+display: inline-block;
+}
